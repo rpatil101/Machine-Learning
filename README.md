@@ -1,3 +1,4 @@
 # Demo1
-THis is learning repository1
+In this I have done some simple EDA code
+
 
